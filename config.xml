@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.belmtz.aap"
     versionCode = "10"
-    version     = "1.2.0">
+    version     = "1.3.0">
 
 <name>ТЕСТ. БелМТЗцентр</name>
 
@@ -34,7 +34,7 @@
 <preference name='WindowsToastCapable' value='true' />
 
 <preference name="SplashMaintainAspectRatio" value="true" />
-<preference name="SplashScreenSpinnerColor" value="#079A4D" />
+<preference name="SplashScreenSpinnerColor" value="#048E39" />
 
 
 <platform name="android">
