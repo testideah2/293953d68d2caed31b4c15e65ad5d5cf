@@ -3,12 +3,12 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.belmtz.aap."
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
 <name>ТЕСТ. БелМТЗцентр</name>
 
 <description>
-    Запчасти и техника от официального дилера.В каталоге представлены комплектующие для МТЗ, КАМАЗ, МАЗ.Сервисная служба,Авторизованная СТО ОАО «МАЗ».
+    Запчасти и техника от официального дилера.
 </description>
 
 <author>Tadapp</author>
@@ -34,7 +34,7 @@
 <preference name='WindowsToastCapable' value='true' />
 
 <preference name="SplashMaintainAspectRatio" value="true" />
-<preference name="SplashScreenSpinnerColor" value="#08920F" />
+<preference name="SplashScreenSpinnerColor" value="#00BA00" />
 
 
 <platform name="android">
